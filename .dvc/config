@@ -1,0 +1,5 @@
+[core]
+    remote = labserver
+['remote "labserver"']
+    url = ssh://root@139.177.178.78/ca_data2
+    ask_password = true
